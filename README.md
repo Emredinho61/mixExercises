@@ -1,1 +1,3 @@
 # mixExercises
+
+## Playground for Python, C, JavaScript...
